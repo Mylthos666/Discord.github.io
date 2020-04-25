@@ -9,7 +9,7 @@
   --tooltips: #2d323c;
   --pages-box: var(--message-box);
   --pages-box-footer: #191b20;
-  --pages-separator: rgba(255,255,255,0.05);
+  --pages-separator: rgba(191,1,5,1);
   --user-popout: var(--dropdown);
   --user-popout-body: #1a1c22;
   --user-popout-message: #15171c;
@@ -17,8 +17,8 @@
   --settings-box-hover: #16191d;
   --settings-box-footer: #171a1f;
   --settings-input: #131519;
-  --settings-paginator: rgba(0,0,0,0.2);
-  --settings-separator: rgba(255,255,255,0.05);
+  --settings-paginator: rgba(191,1,5,1);
+  --settings-separator: rgba(191,1,5,1);
   --dropdown: #1e2127;
   --dropdown-header: #252830;
   --dropdown-item-hover: #22262d;
