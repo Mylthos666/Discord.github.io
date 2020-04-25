@@ -4,7 +4,7 @@
   --foreground-divider: #dadada;
   --background-1: #171a1f;
   --background-2: #131519;
-  --box-shadow: 0 0 2px 2px rgba(191,1,5,1);
+  --box-shadow: 0 0 2px 2px rgba(191,1,5,0.1);
   --scrollbar: rgb(53, 55, 63, 0.5);
   --tooltips: #2d323c;
   --pages-box: var(--message-box);
@@ -17,8 +17,8 @@
   --settings-box-hover: #16191d;
   --settings-box-footer: #171a1f;
   --settings-input: #131519;
-  --settings-paginator: rgba(191,1,5,1);
-  --settings-separator: rgba(191,1,5,1);
+  --settings-paginator: rgba(191,1,5,0.1);
+  --settings-separator: rgba(191,1,5,0.1);
   --dropdown: #1e2127;
   --dropdown-header: #252830;
   --dropdown-item-hover: #22262d;
